@@ -1,6 +1,6 @@
 const express = require("express");
 const fs = require("fs");
-const data = require("./data");
+
 
 const router = express.Router();
 
